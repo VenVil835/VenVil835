@@ -3,7 +3,7 @@
 <h3 align="center">A frontend developer from 🇵🇭Philippines🇵🇭</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif"</img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venvil835&label=Profile%20views&color=0e75b6&style=flat" alt="venvil835" /> </p>
+<p align="left"> <a href="https://youtu.be/lg7sn2qgrwQ?si=i3O-2HiZEZIZhdz_"><img src="https://komarev.com/ghpvc/?username=venvil835&label=Profile%20views&color=0e75b6&style=flat" alt="venvil835" /></a> </p>
 
 - 🔭 I’m currently working on [USeP Mintal Scheduling System](https://github.com/marble55/mintal_scheduling)
 
