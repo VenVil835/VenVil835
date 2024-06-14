@@ -1,9 +1,9 @@
 [![MasterHead](https://wallpapers-clan.com/wp-content/uploads/2024/04/miles-morales-black-gif-preview-desktop-wallpaper.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <h1 align="center">Hi 👋, I'm Ven Villotes</h1>
 <h3 align="center">A frontend developer from 🇵🇭Philippines🇵🇭</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif"</img>
+<a href="https://www.youtube.com/watch?v=lg7sn2qgrwQ"><img align="right" alt="Coding" width="400" src="https://media.tenor.com/MYaoHv7vvoUAAAAi/laughing-miles-morales.gif"</img></a>
 
-<p align="left"> <a href="https://youtu.be/lg7sn2qgrwQ?si=i3O-2HiZEZIZhdz_"><img src="https://komarev.com/ghpvc/?username=venvil835&label=Profile%20views&color=0e75b6&style=flat" alt="venvil835" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venvil835&label=Profile%20views&color=0e75b6&style=flat" alt="venvil835" /> </p>
 
 - 🔭 I’m currently working on [USeP Mintal Scheduling System](https://github.com/marble55/mintal_scheduling)
 
