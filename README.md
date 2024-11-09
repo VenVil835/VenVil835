@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, and MySQL**
 
-- 📫 How to reach me **venvilots@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I am reliant on my friends and previous projects lol**
 
