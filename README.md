@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 🤝 I’m looking for help with [marble55](https://github.com/marble55)
+- 🤝 I’m looking for help with [Mark](https://github.com/rqms40))
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, and MySQL**
 
